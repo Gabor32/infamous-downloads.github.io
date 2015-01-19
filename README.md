@@ -1,5 +1,4 @@
-#Infamous Downloads
 #![](ic_launcher_small.png)
-
-##Click me
+#Infamous Downloads
+###Click me
 * [Link to page](http://infamous-downloads.github.io)

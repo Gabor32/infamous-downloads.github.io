@@ -44,9 +44,11 @@ h6 { font-size: 14px; margin: 0 0 5px 0; padding: 0; }
 .float_l { float: left; }
 .float_r { float: right; }
 
+/*
 .image_wrapper { display: inline-block; padding: 4px; border: 1px solid #666; background: none; margin-bottom: 10px; }
 .image_fl { float: left; margin: 3px 15px 0 0; }
 .image_fr { float: right; margin: 3px 0 0 15px; }
+*/
 
 blockquote { font-style: italic; margin-left: 10px;}
 cite { font-weight: bold; color:#3b3823; }

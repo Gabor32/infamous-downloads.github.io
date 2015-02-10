@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName><![CDATA[ InfamousROM Note4 ]]></RomName>
+  <VersionName><![CDATA[ 3.1 ]]></VersionName>
+  <VersionNumber type="integer">20150209</VersionNumber>
+  <DirectUrl>https://www.mediafire.com/?sphev60kmnazn6i</DirectUrl>
+  <HttpUrl nil="true"/>
+  <Android>4.4.4</Android>
+  <CheckMD5>7d226e6ac9c1c6a41b2976474a1f488d</CheckMD5>
+  <FileSize type="integer">1568837772</FileSize>
+  <Developer><![CDATA[ mrimp and Jamison904 ]]></Developer>
+  <WebsiteURL><![CDATA[ http://infamousdevelopment.com/forum ]]></WebsiteURL>
+  <DonateURL><![CDATA[ http://forum.xda-developers.com/donatetome.php?u=5001866 ]]></DonateURL>
+  <Changelog><![CDATA[ 
+### Changelog 20150208
+* Reworked Full Screen Caller
+* New Launcher Icon TW
+* AccuweatherPhone2014.apk by kimdalanxa
+* Cleaned up code some 
+* WIP...
+ ]]> </Changelog>
+</ROM>
